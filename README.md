@@ -1,7 +1,7 @@
 Hi there 👋 I’m Mathias Jiya
 
 - 👀 I’m interested in Backend developement
-- 🌱 I’m a Django developer with interest in Golang.
+- 🌱 I’m a Django developer with a great interest in Golang.
 - 👯 I’m looking to collaborating on any Django or Golang projects.
 - 🤔 I am opened for job offers and I freelance also.
 - 📫 You can reach me through my contact number +2349132600841 or send me a mail at mathiasjiya2@gmail.com

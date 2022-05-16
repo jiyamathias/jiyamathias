@@ -1,6 +1,4 @@
-Hi there 👋 I’m Mathias Jiya
+Hi there 👋 I’m Jiya Mathias
 
-- 👀 I’m interested in Backend developement with... GO.
-- 🌱 I am building stuffs with Go (Golang).
-- 👯 I look forward to collaborating on any Go projects.
-- 📫 You can reach me through my contact number +2349132600841 or send me a mail at mathiasjiya2@gmail.com
+- 👀 So long it's Go, you can count me in...
+- 📫 Reach out to me through my contact number +2349132600841 or send me a mail at mathiasjiya2@gmail.com

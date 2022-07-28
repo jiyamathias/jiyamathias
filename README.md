@@ -41,6 +41,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img src="https://activity-graph.herokuapp.com/graph?username=hisyntax&theme=react-dark"/>
 </div>
 
+<div>
+<h1>How to reach me</h1>
+    <div style="display: inline_block" align="center">
+    <a href="https://www.linkedin.com/in/hisyntax/"><img height="40" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mathiasjiya2@gmail.com"><img height="40" alt="Website" src="https://img.shields.io/badge/Gmail-12100a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href=https://twitter.com/hisyntax"><img height="40" alt="Website" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
+</div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=monnify-go&theme=radical)](https://github.com/hisyntax/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=bingpay-go&theme=radical)](https://github.com/hisyntax/github-readme-stats) -->

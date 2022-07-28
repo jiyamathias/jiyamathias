@@ -2,14 +2,6 @@
     <img src="./static/img.png"></img>
 </p>
 
-<!-- <p style="display:flex;justify-content:center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hisyntax?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hisyntax?style=social"> &nbsp;&nbsp; 
-</p> -->
-
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Samuel+Lawal;Welcome+to+my+profile!" alt="Title"></img>
-</div> -->
-
 <h1 align="center">Hi there, I'm <b>Jiya Mathias</b> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <div>
@@ -19,7 +11,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 <br />
 <p>👀 So long as it's backend development with Go, you can count me in...</p>
-<p>📫 Reach out to me through my contact number +2349132600841 or send me a mail at mathiasjiya2@gmail.com</p>
 <p>📚 I'm opened to collaborate on any Go project</p>
 </div>
 <br />

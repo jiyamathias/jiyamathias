@@ -6,7 +6,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <div>
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyntax&layout=compact&show_icon=true&theme=radical&count-private=true&exclude_repo=hisearch,evidence-church,UMCA-blog,my-portfolio-website,college-of-health,ninjafood,zimatty,zickiss" alt="hisyntax-langs"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyntax&layout=compact&show_icon=true&theme=radical&count-private=true&exclude_repo=hisearch,evidence-church,UMCA-blog,my-portfolio-website,college-of-health,ninjafood,zimatty,zickiss," alt="hisyntax-langs"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=hisyntax&layout=compact&show_icon=true&theme=radical&count_private=true" alt="hisyntax"/>
 </div>
 <br />
@@ -28,7 +28,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <div align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com/?user=hisyntax&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=hisyntax&theme=react-dark"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=hisyntax&theme=react-dark&hide_border=true"/>
 </div>
 
 <div>

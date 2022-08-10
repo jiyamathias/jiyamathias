@@ -26,9 +26,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     </div>
 </div>
 
+<div>
+<h1>My stats</h2>
 <div align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com/?user=hisyntax&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=hisyntax&theme=react-dark&hide_border=true"/>
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=hisyntax&theme=react-dark&hide_border=true"/> -->
+</div>
 </div>
 
 <div>

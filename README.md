@@ -18,13 +18,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <h1>Libraries that I manage</h1>
     <div align="center">
     <a href="https://github.com/hisyntax/monnify-go" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=monnify-go&theme=radical" alt="hisyntax"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=monnify-go&theme=radical" alt="monnify library"/>
     </a>
     <a href="https://github.com/hisyntax/bingpay-go" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=bingpay-go&theme=radical" alt="hisyntax"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=bingpay-go&theme=radical" alt="bingpay library"/>
     </a>
      <a href="https://github.com/hisyntax/sort" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=sort&theme=radical" alt="hisyntax"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=sort&theme=radical" alt="sort library"/>
     </a>
     </div>
 </div>

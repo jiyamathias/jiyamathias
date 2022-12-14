@@ -23,6 +23,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <a href="https://github.com/hisyntax/bingpay-go">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=bingpay-go&theme=radical" alt="hisyntax"/>
     </a>
+     <a href="https://github.com/hisyntax/sort">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=sort&theme=radical" alt="hisyntax"/>
+    </a>
     </div>
 </div>
 

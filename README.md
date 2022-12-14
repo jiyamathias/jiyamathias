@@ -29,6 +29,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     </div>
 </div>
 
+
+<div align="center">
+<h2>Want to get into backend development with Go then this might help you get started</h2>
+ <a href="https://github.com/hisyntax/Golang_roadmap_for_beginners">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=Golang_roadmap_for_beginners&theme=radical" alt="hisyntax"/>
+    </a>
+</div>
+
 <div>
 <h1>My stats</h2>
 <div align="center">
@@ -37,12 +45,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 </div>
 
-<div align="center">
-<h2>What to get into backend development with Go then this might help you get started</h2>
- <a href="https://github.com/hisyntax/Golang_roadmap_for_beginners">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=Golang_roadmap_for_beginners&theme=radical" alt="hisyntax"/>
-    </a>
-</div>
+
+
 
 <div>
 <h1>How to reach me</h1>

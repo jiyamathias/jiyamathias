@@ -17,13 +17,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <div>
     <h1>Libraries that I manage</h1>
     <div align="center">
-    <a href="https://github.com/hisyntax/monnify-go">
+    <a href="https://github.com/hisyntax/monnify-go" target="_blank">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=monnify-go&theme=radical" alt="hisyntax"/>
     </a>
-    <a href="https://github.com/hisyntax/bingpay-go">
+    <a href="https://github.com/hisyntax/bingpay-go" target="_blank">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=bingpay-go&theme=radical" alt="hisyntax"/>
     </a>
-     <a href="https://github.com/hisyntax/sort">
+     <a href="https://github.com/hisyntax/sort" target="_blank">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=sort&theme=radical" alt="hisyntax"/>
     </a>
     </div>
@@ -32,7 +32,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <div align="center">
 <h2>Want to get into backend development with Go then this might help you get started</h2>
- <a href="https://github.com/hisyntax/Golang_roadmap_for_beginners">
+ <a href="https://github.com/hisyntax/Golang_roadmap_for_beginners" target="_blank">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=Golang_roadmap_for_beginners&theme=radical" alt="hisyntax"/>
     </a>
 </div>

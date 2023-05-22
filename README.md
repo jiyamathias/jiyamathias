@@ -2,12 +2,12 @@
     <img src="./static/img.png"></img>
 </p>
 
-<h1 align="center">Hi there, I'm <b>Jiya Mathias</b> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm <b>Jiya Mathias</b></h1>
 <div>
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyntax&layout=compact&show_icon=true&theme=radical&count-private=true&exclude_repo=hisearch,evidence-church,UMCA-blog,my-portfolio-website,college-of-health,ninjafood,zimatty,zickiss," alt="hisyntax-langs"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=hisyntax&layout=compact&show_icon=true&theme=radical&count_private=true" alt="hisyntax"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqquee&layout=compact&show_icon=true&theme=radical&count-private=true&exclude_repo=hisearch,evidence-church,UMCA-blog,my-portfolio-website,college-of-health,ninjafood,zimatty,zickiss," alt="iqquee-langs"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=iqquee&layout=compact&show_icon=true&theme=radical&count_private=true" alt="iqquee"/>
 </div>
 <br />
 <p>👀 So long as it's backend development with Go, you can count me in...</p>
@@ -17,15 +17,18 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <div>
     <h1>Libraries that I manage</h1>
     <div align="center">
-    <a href="https://github.com/iqquee/monnify-go" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=monnify-go&theme=radical" alt="monnify library"/>
-    </a>
-    <a href="https://github.com/iqquee/bingpay-go" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=bingpay-go&theme=radical" alt="bingpay library"/>
-    </a>
-     <a href="https://github.com/iqquee/sort" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=sort&theme=radical" alt="sort library"/>
-    </a>
+      <a  href="https://github.com/iqquee/monnify-go" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=monnify-go&theme=radical" alt="monnify library"/>
+      </a>
+      <a href="https://github.com/iqquee/bingpay-go" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=bingpay-go&theme=radical" alt="bingpay library"/>
+      </a>
+      <a href="https://github.com/iqquee/sort" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=sort&theme=radical" alt="sort library"/>
+      </a>
+      <a href="https://github.com/iqquee/metamap" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=metamap&theme=radical" alt="metamap library"/>
+      </a>
     </div>
 </div>
 
@@ -33,7 +36,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <div align="center">
 <h2>Want to get into backend development with Go then this might help you get started</h2>
  <a href="https://github.com/iqquee/Golang_roadmap_for_beginners" target="_blank">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hisyntax&repo=Golang_roadmap_for_beginners&theme=radical" alt="hisyntax"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=Golang_roadmap_for_beginners&theme=radical" alt="golang roadmap for beginners"/>
     </a>
 </div>
 

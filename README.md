@@ -1,5 +1,5 @@
 <p>
-    <img src="./static/img.png"></img>
+    <img src="./static/img1.png"></img>
 </p>
 
 <h1 align="center">Hi there <img

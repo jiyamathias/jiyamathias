@@ -3,20 +3,26 @@
 </p>
 
 <h1 align="center">Hi there <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm <b>Jiya Mathias</b></h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I am <b>Jiya Mathias</b></h1>
 <div>
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqquee&layout=compact&show_icon=true&theme=radical&count-private=true&exclude_repo=hisearch,evidence-church,UMCA-blog,my-portfolio-website,college-of-health,ninjafood,zimatty,zickiss," alt="iqquee-langs"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=iqquee&layout=compact&show_icon=true&theme=radical&count_private=true" alt="iqquee"/>
 </div>
 <br />
-<p>👀 So long as it's backend development with Go, you can count me in...</p>
+<p>👀 Anything Go(Golang)...</p>
 <p>📚 I'm opened to collaborate on any Go project</p>
 </div>
 
 <div>
     <h1>Libraries that I manage</h1>
     <div align="center">
+    <a href="https://github.com/iqquee/zeptomail" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=zeptomail&theme=radical" alt="zeptomail library"/>
+      </a>
+      <a href="https://github.com/iqquee/fs-cache" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=fs-cache&theme=radical" alt="fs-cache library"/>
+      </a>
      <a href="https://github.com/iqquee/metamap" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=metamap&theme=radical" alt="metamap library"/>
       </a>

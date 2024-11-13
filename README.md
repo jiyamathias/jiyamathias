@@ -60,9 +60,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <div>
 <h1>How to reach me</h1>
     <div style="display: inline_block" align="center">
-    <a href="https://www.linkedin.com/in/jiyamathias/"><img height="40" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-    <a href="mailto:mathiasjiya2@gmail.com"><img height="40" alt="Website" src="https://img.shields.io/badge/Gmail-12100a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-    <a href=https://twitter.com/jiyamathyas><img height="40" alt="Website" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
+    <a href="https://www.linkedin.com/in/jiyamathias" target="_blank" rel="noopener noreferrer"><img height="40" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:mathiasjiya2@gmail.com" target="_blank" rel="noopener noreferrer"><img height="40" alt="Website" src="https://img.shields.io/badge/Gmail-12100a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://twitter.com/jiyamathyas" target="_blank" rel="noopener noreferrer"><img height="40" alt="Website" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 </div>
 

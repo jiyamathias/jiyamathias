@@ -35,6 +35,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
       <a href="https://github.com/iqquee/bingpay-go" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=bingpay-go&theme=radical" alt="bingpay library"/>
       </a>
+        <a href="https://github.com/iqquee/ExchangeRateAPI" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqquee&repo=ExchangeRateAPI&theme=radical" alt="ExchangeRateAPI library"/>
+        </a>
     </div>
 </div>
 
